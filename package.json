@@ -1,0 +1,26 @@
+{
+  "name": "@guoxmin/pcat-parser-babel-6.x",
+  "version": "1.0.0",
+  "description": "pcat babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcat-team/pcat-parser-babel-6.x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcat-team/pcat-parser-babel-6.x/issues"
+  },
+  "homepage": "https://github.com/pcat-team/pcat-parser-babel-6.x#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-3": "^6.24.0",
+    "babel-preset-react": "^6.24.0"
+  }
+}
